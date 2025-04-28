@@ -1,0 +1,6 @@
+
+[workspace]
+members = ["programs/indiforge_license"]
+
+[dependencies]
+anchor-lang = "0.24.2"

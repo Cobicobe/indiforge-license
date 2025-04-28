@@ -1,0 +1,10 @@
+
+[programs.devnet]
+indiforge_license = "Fg6PaFpoGXkYsidMpWxqSWYjR7o63UK7R3vYzsa1onbP"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "mocha -t 1000000"
